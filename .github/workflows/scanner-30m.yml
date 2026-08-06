@@ -1,4 +1,4 @@
-name: Scanner TF
+name: Scanner 30m
 
 on:
   workflow_dispatch:
